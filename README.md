@@ -1,2 +1,2 @@
-# Magiclands-Ressourcepack
-Ressourcepack for Magiclands
+# Magiclands-Resourcepack
+Resourcepack for Magiclands
